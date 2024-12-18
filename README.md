@@ -98,16 +98,6 @@ yarn dev
 ```
 
 ## Deployment 🚀
- - Client deployed on [Vercel](https://vercel.com/)
- - Server deployed on [Railway](https://railway.app/)
- 
- 
-## Inspiration & credits ☄️
- - [@bradtraversy](https://www.youtube.com/@TraversyMedia) - Project Idea
- - [@satnaing](https://github.com/satnaing) - README format
 
-## Author
-- [@achrafdev](https://achrafdev.com)
-
-**Thanks for sharing** 🚀
-
+- Client deployed on [Vercel](https://vercel.com/)
+- Server deployed on [Railway](https://railway.app/)
